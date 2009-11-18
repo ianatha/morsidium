@@ -1,0 +1,358 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeSDKPreference = macosx10.5;
+		activeTarget = 8D5B49AC048680CD000E48DA /* Morisidum */;
+		codeSenseManager = 0AFBC7F610B391B3003B873F /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					443,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					704,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					567,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					493,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					488,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 280217317;
+			PBXWorkspaceStateSaveDate = 280217317;
+		};
+		perUserProjectItems = {
+			0A2941F610B3BA44008142C6 /* PBXTextBookmark */ = 0A2941F610B3BA44008142C6 /* PBXTextBookmark */;
+			0A2942C610B3C6CD008142C6 /* PBXTextBookmark */ = 0A2942C610B3C6CD008142C6 /* PBXTextBookmark */;
+			0A2942C710B3C6CD008142C6 /* PBXTextBookmark */ = 0A2942C710B3C6CD008142C6 /* PBXTextBookmark */;
+			0A36387110B3C7690019D009 /* PBXTextBookmark */ = 0A36387110B3C7690019D009 /* PBXTextBookmark */;
+			0A36387210B3C7690019D009 /* PBXTextBookmark */ = 0A36387210B3C7690019D009 /* PBXTextBookmark */;
+			0A68B16810B3A7D4009A0CB3 /* PBXTextBookmark */ = 0A68B16810B3A7D4009A0CB3 /* PBXTextBookmark */;
+			0A68B1A810B3AE78009A0CB3 /* PBXTextBookmark */ = 0A68B1A810B3AE78009A0CB3 /* PBXTextBookmark */;
+			0AFBC82D10B39F9B003B873F /* PBXTextBookmark */ = 0AFBC82D10B39F9B003B873F /* PBXTextBookmark */;
+			0AFBC82E10B39F9B003B873F /* PBXTextBookmark */ = 0AFBC82E10B39F9B003B873F /* PBXTextBookmark */;
+			0AFBC83A10B39FEE003B873F /* PBXTextBookmark */ = 0AFBC83A10B39FEE003B873F /* PBXTextBookmark */;
+			0AFBC84610B3A094003B873F /* PBXTextBookmark */ = 0AFBC84610B3A094003B873F /* PBXTextBookmark */;
+			0AFBC89C10B3A3CD003B873F /* PBXTextBookmark */ = 0AFBC89C10B3A3CD003B873F /* PBXTextBookmark */;
+			0AFBC89E10B3A3CD003B873F /* PBXTextBookmark */ = 0AFBC89E10B3A3CD003B873F /* PBXTextBookmark */;
+			0AFBC8A010B3A3CD003B873F /* PBXTextBookmark */ = 0AFBC8A010B3A3CD003B873F /* PBXTextBookmark */;
+			0AFBC8A510B3A3CD003B873F /* PBXTextBookmark */ = 0AFBC8A510B3A3CD003B873F /* PBXTextBookmark */;
+			0AFBC8A610B3A3CD003B873F /* PBXTextBookmark */ = 0AFBC8A610B3A3CD003B873F /* PBXTextBookmark */;
+			0AFBC8A710B3A3CD003B873F /* PBXTextBookmark */ = 0AFBC8A710B3A3CD003B873F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0AFBC7F510B391B3003B873F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C167EFE841241C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1029, 460}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+			sepNavWindowFrame = "{{38, 264}, {1088, 588}}";
+		};
+	};
+	0A2941F610B3BA44008142C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32DBCF630370AF2F00C91783 /* Morsidium_Prefix.pch */;
+		name = "Morsidium_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 51;
+		vrLoc = 0;
+	};
+	0A2942C610B3C6CD008142C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 113289290EC4DC51001BB80B /* MorsidiumPlugin.m */;
+		name = "MorsidiumPlugin.m: 105";
+		rLen = 0;
+		rLoc = 3465;
+		rType = 0;
+		vrLen = 866;
+		vrLoc = 3076;
+	};
+	0A2942C710B3C6CD008142C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 113289290EC4DC51001BB80B /* MorsidiumPlugin.m */;
+		name = "MorsidiumPlugin.m: 120";
+		rLen = 0;
+		rLoc = 4021;
+		rType = 0;
+		vrLen = 1208;
+		vrLoc = 3188;
+	};
+	0A36387110B3C7690019D009 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 113289290EC4DC51001BB80B /* MorsidiumPlugin.m */;
+		name = "MorsidiumPlugin.m: 105";
+		rLen = 0;
+		rLoc = 3465;
+		rType = 0;
+		vrLen = 416;
+		vrLoc = 2355;
+	};
+	0A36387210B3C7690019D009 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 113289290EC4DC51001BB80B /* MorsidiumPlugin.m */;
+		name = "MorsidiumPlugin.m: 120";
+		rLen = 0;
+		rLoc = 4021;
+		rType = 0;
+		vrLen = 1184;
+		vrLoc = 3212;
+	};
+	0A68B16810B3A7D4009A0CB3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 113289380EC4E117001BB80B /* MorsidiumPreferences.m */;
+		name = "MorsidiumPreferences.m: 123";
+		rLen = 0;
+		rLoc = 2870;
+		rType = 0;
+		vrLen = 621;
+		vrLoc = 2311;
+	};
+	0A68B1A810B3AE78009A0CB3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 113289280EC4DC51001BB80B /* MorsidiumPlugin.h */;
+		name = "MorsidiumPlugin.h: 5";
+		rLen = 0;
+		rLoc = 148;
+		rType = 0;
+		vrLen = 321;
+		vrLoc = 0;
+	};
+	0AFBC7F510B391B3003B873F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	0AFBC7F610B391B3003B873F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0AFBC82D10B39F9B003B873F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 113289380EC4E117001BB80B /* MorsidiumPreferences.m */;
+		name = "ChallengeResponsePreferences.m: 53";
+		rLen = 0;
+		rLoc = 865;
+		rType = 0;
+		vrLen = 418;
+		vrLoc = 2064;
+	};
+	0AFBC82E10B39F9B003B873F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 113289290EC4DC51001BB80B /* MorsidiumPlugin.m */;
+		name = "ChallengeResponsePlugin.m: 148";
+		rLen = 0;
+		rLoc = 5610;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 2245;
+	};
+	0AFBC83A10B39FEE003B873F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 113289370EC4E117001BB80B /* MorsidiumPreferences.h */;
+		name = "ChallengeResponsePreferences.h: 26";
+		rLen = 0;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 368;
+	};
+	0AFBC84610B3A094003B873F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 113289280EC4DC51001BB80B /* MorsidiumPlugin.h */;
+		name = "ChallengeResponsePlugin.h: 6";
+		rLen = 0;
+		rLoc = 171;
+		rType = 0;
+		vrLen = 259;
+		vrLoc = 0;
+	};
+	0AFBC89C10B3A3CD003B873F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 113289370EC4E117001BB80B /* MorsidiumPreferences.h */;
+		name = "MorsidiumPreferences.h: 9";
+		rLen = 0;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 368;
+		vrLoc = 0;
+	};
+	0AFBC89E10B3A3CD003B873F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1132892E0EC4DC6C001BB80B /* MorsidiumPreferences.xib */;
+		name = ChallengeResponse;
+		rLen = 17;
+		rLoc = 14778;
+		rType = 0;
+		vrLen = 681;
+		vrLoc = 14215;
+	};
+	0AFBC8A010B3A3CD003B873F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	0AFBC8A510B3A3CD003B873F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1132892E0EC4DC6C001BB80B /* MorsidiumPreferences.xib */;
+		name = ChallengeResponse;
+		rLen = 17;
+		rLoc = 14778;
+		rType = 0;
+		vrLen = 681;
+		vrLoc = 14215;
+	};
+	0AFBC8A610B3A3CD003B873F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32DBCF630370AF2F00C91783 /* Morsidium_Prefix.pch */;
+		name = "ChallengeResponse_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 51;
+		vrLoc = 0;
+	};
+	0AFBC8A710B3A3CD003B873F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	113289280EC4DC51001BB80B /* MorsidiumPlugin.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1029, 460}}";
+			sepNavSelRange = "{290, 0}";
+			sepNavVisRange = "{0, 344}";
+			sepNavWindowFrame = "{{60, 258}, {1088, 588}}";
+		};
+	};
+	113289290EC4DC51001BB80B /* MorsidiumPlugin.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1029, 2562}}";
+			sepNavSelRange = "{4021, 0}";
+			sepNavVisRange = "{3212, 1184}";
+			sepNavWindowFrame = "{{179, 104}, {1088, 588}}";
+		};
+	};
+	113289370EC4E117001BB80B /* MorsidiumPreferences.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1029, 460}}";
+			sepNavSelRange = "{271, 0}";
+			sepNavVisRange = "{0, 368}";
+			sepNavWindowFrame = "{{4, 115}, {1088, 588}}";
+		};
+	};
+	113289380EC4E117001BB80B /* MorsidiumPreferences.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1029, 1820}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1552, 601}";
+			sepNavWindowFrame = "{{369, 102}, {1088, 588}}";
+		};
+	};
+	32DBCF630370AF2F00C91783 /* Morsidium_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {706, 176}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 51}";
+			sepNavWindowFrame = "{{15, 285}, {1088, 588}}";
+		};
+	};
+	8D5B49AC048680CD000E48DA /* Morisidum */ = {
+		activeExec = 0;
+	};
+	8D5B49B7048680CD000E48DA /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{295, 132}, {1088, 588}}";
+		};
+	};
+}
