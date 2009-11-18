@@ -90,7 +90,7 @@ NSComparisonResult invertedLengthSort(NSString *s1, NSString *s2, void *context)
 	[MorsidiumPreferences showWindow];
 }
 
-#pragma mark Chat handing
+#pragma mark Receive handing
 /*!
  * @brief Handles content before it's displayed
  */
@@ -106,6 +106,7 @@ NSComparisonResult invertedLengthSort(NSString *s1, NSString *s2, void *context)
 
 	/* Will only attempt to decode Morse if more than half of the string contains dots or dashes. Ignores whitespace. */
 	unichar *charBuffer = calloc([whitespacelessData length], sizeof(unichar));
+	unichar *originalCharBuffer = charBuffer;
 	[whitespacelessData getCharacters:charBuffer];
 	int morseChars = 0;
 	int totalChars = [whitespacelessData length];
@@ -114,7 +115,7 @@ NSComparisonResult invertedLengthSort(NSString *s1, NSString *s2, void *context)
 			morseChars++;
 		}
 	}
-	free(charBuffer);
+	free(originalCharBuffer);
 	
 	
 	BOOL shouldDecode = (morseChars) > (totalChars / 2);
@@ -158,8 +159,7 @@ NSComparisonResult invertedLengthSort(NSString *s1, NSString *s2, void *context)
 			[[adium notificationCenter] addObserver:self
 										   selector:@selector(willReceiveContent:)
 											   name:Content_WillReceiveContent
-											 object:nil];	
-			
+											 object:nil];
 		} else if(!firstTime) {
 			[[adium notificationCenter] removeObserver:self];
 		}
